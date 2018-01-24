@@ -1,0 +1,9 @@
+build
+.idea/
+shadowsocks.xcodeproj/project.xcworkspace/
+shadowsocks.xcodeproj/xcuserdata/
+.DS_STORE
+*.dmg
+pods
+shadowsocks.xcworkspace/xcuserdata
+zxing-objc/ZXingObjC.xcodeproj/xcuserdata
